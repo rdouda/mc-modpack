@@ -1,4 +1,0 @@
-// Compost colors for dungeons_plus. You may add your own colors, change existing ones, or remove colors that aren't needed.
-frosted_cowl, #c6cad0
-leviathan_blade, #d4caa5
-warped_axe, #b9ae4e
