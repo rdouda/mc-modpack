@@ -1,0 +1,16 @@
+// Compost colors for ad_astra_dh. You may add your own colors, change existing ones, or remove colors that aren't needed.
+alive_compactitz_gem, #4afffb
+compactitz_bucket, #75dec3
+cracked_compactitz_gem, #52ffff
+perfect_compactitz_gem, #4effff
+rust_upgrade_smithing_template, #9a5823
+rusty_anchor, #b6653c
+rusty_boots, #ae5b34
+rusty_chestplate, #c67048
+rusty_dust, #cd7043
+rusty_helmet, #a05b3a
+rusty_leggings, #b45e34
+rusty_pipe, #c5693d
+rusty_plate, #d07548
+useless_compactitz_gem, #6efff0
+very_cracked_compactitz_gem, #62ffff
