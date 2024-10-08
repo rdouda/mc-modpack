@@ -1,0 +1,21 @@
+// Compost colors for ad_astra__extra_additions. You may add your own colors, change existing ones, or remove colors that aren't needed.
+as_ostrum_armor_boots, #643c40
+as_ostrum_armor_chestplate, #804048
+as_ostrum_armor_helmet, #65363c
+as_ostrum_armor_leggings, #683c41
+deshtrum_armor_boots, #7a5e51
+deshtrum_armor_chestplate, #8c6f62
+deshtrum_armor_helmet, #7d6154
+deshtrum_armor_leggings, #7d6154
+deshtrum_ingot, #bf8a6f
+melded_axe, #89704e
+melded_deshtrum_plate, #a88789
+melded_hoe, #80653a
+melded_pickaxe, #846f50
+melded_shovel, #8d734d
+melded_sword, #908276
+ostrum_axe, #64391c
+ostrum_hoe, #623c16
+ostrum_pickaxe, #543016
+ostrum_shovel, #683d1e
+ostrum_sword, #58292a
