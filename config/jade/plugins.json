@@ -80,6 +80,9 @@
     "camo": true,
     "semiblock": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
   "extrastorage": {
     "crafter": true,
     "advanced_crafter": true
